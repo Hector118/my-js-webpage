@@ -4,6 +4,8 @@ var template = `
         {{#data}}
         <img src={{Image}}>
         <li>PC: {{PC}}, Price: {{Price}}, Store: {{Store}}</li>
+        <br/>
+        <br/>
         {{/data}}
     </ul>
 `;
