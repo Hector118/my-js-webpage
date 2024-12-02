@@ -2,7 +2,7 @@
 var template = `
     <ul>
         {{#data}}
-        <img src={{Image}}>
+        <img src={{Image}} style="max-width:100px; max-height: 150px;">
         <li>PC: {{PC}}, Price: {{Price}}, Store: {{Store}}</li>
         {{/data}}
         <br/>
