@@ -1,17 +1,20 @@
 [
     {
-        "name": "RR",
-        "age": 35,
-        "city": "San Francisco"
+        "PC": "Starter Level PC",
+        "Price": "$1000",
+        "Store": "BestBuy",
+        "Image": "https://pcpartgo.com/wp-content/uploads/2024/05/skytech-gaming-pc.jpg"
     },
     {
-        "name": "Ann Ispen",
-        "age": 30,
-        "city": "Los Angeles"
+        "PC": "Mid-Level PC",
+        "Price": "$1500",
+        "Store": "Amazon",
+        "Image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6409/6409025_rd.jpg"
     },
     {
-        "name": "Tom Hanks",
-        "age": 22,
-        "city": "Chicago"
+        "PC": "High-Level PC",
+        "Price": "$2000",
+        "Store": "Microcenter",
+        "Image": "https://us.v-cdn.net/6031942/uploads/IMID5ATIJA9C/feecf0ff-d6ef-4a68-a0ed-30b08542004e.jpg"
     }
 ]
